@@ -31,7 +31,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Flut
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/edusantsales/animated-drawer-and-menu-view.git rocketshoesRN
+$ git clone https://github.com/edusantsales/animated-drawer-and-menu-view.git
 
 # Go into the repository
 $ cd animated-drawer-and-menu-view
