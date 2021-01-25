@@ -49,8 +49,6 @@ $ flutter run
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/edusantsales/animated-drawer-and-menu-view/blob/master/LICENSE) for more information.
 
----
-
 ## :white_check_mark: Follow me
 
 <p align="left">
@@ -66,5 +64,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/edus
     <img alt="Github" src="https://raw.githubusercontent.com/edusantsales/edusantsales/master/assets/social/github.svg" width="32">
   </a>
 </p>
+
+---
 
 <h3>Developed by Eduardo Sales</h3>
