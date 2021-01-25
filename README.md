@@ -51,14 +51,20 @@ This project is under the MIT license. See the [LICENSE](https://github.com/edus
 ---
 
 ## :white_check_mark: Follow me
-[![Instagram: edusantsales][instagram]](https://www.instagram.com/edusantsales/) &nbsp;&nbsp;
-[![Linkedin: edusantsales][linkedin]](https://www.linkedin.com/in/edusantsales/) &nbsp;&nbsp;
-[![GitHub: edusantsales][github]](https://github.com/edusantsales)
 
-[instagram]: assets/social/instagram.png
-[linkedin]: assets/social/linkedin.png
-[github]: assets/social/github.png
-[preview]: assets/social/preview.gif
+<p align="left">
+  <a href="https://www.instagram.com/edusantsales/">
+    <img alt="Instagram" src="assets/social/instagram2.svg" width="33">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/edusantsales/">
+    <img alt="Linkedin" src="assets/social/linkedin2.svg" width="32">
+  </a>
+  &nbsp;
+  <a href="https://github.com/edusantsales">
+    <img alt="Github" src="assets/social/github.svg" width="32">
+  </a>
+</p>
 
 <br/>
 
