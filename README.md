@@ -54,15 +54,15 @@ This project is under the MIT license. See the [LICENSE](https://github.com/edus
 
 <p align="left">
   <a href="https://www.instagram.com/edusantsales/">
-    <img alt="Instagram" src="assets/social/instagram2.svg" width="33">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/edusantsales/edusantsales/master/assets/social/instagram.svg" width="33">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/edusantsales/">
-    <img alt="Linkedin" src="assets/social/linkedin2.svg" width="32">
+    <img alt="Linkedin" src="https://raw.githubusercontent.com/edusantsales/edusantsales/master/assets/social/linkedin.svg" width="32">
   </a>
   &nbsp;
   <a href="https://github.com/edusantsales">
-    <img alt="Github" src="assets/social/github.svg" width="32">
+    <img alt="Github" src="https://raw.githubusercontent.com/edusantsales/edusantsales/master/assets/social/github.svg" width="32">
   </a>
 </p>
 
