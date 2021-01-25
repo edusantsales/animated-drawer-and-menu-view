@@ -9,14 +9,15 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#white_check_mark-follow-me">Follow Me</a>
 </p>
 
 <p align="center">
   <img alt="Preview" src="preview.gif" width="300">
 </p>
 
-## :rocket: &nbsp; Technologies
+## :rocket: Technologies
 
 This project was developed with the following technologies:
 
@@ -24,7 +25,7 @@ This project was developed with the following technologies:
 -  [Flutter](https://flutter.dev/)
 -  [VS Code](https://code.visualstudio.com/)
 
-## :information_source: &nbsp; How To Use
+## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Flutter v1.22.2](https://flutter.dev/) or higher + [Dart v2.10.2](https://dart.dev/) or higher installed on your computer. From your command line:
 
@@ -45,12 +46,12 @@ $ flutter doctor
 $ flutter run
 ```
 
-## :memo: &nbsp; License
+## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/edusantsales/animated-drawer-and-menu-view/blob/master/LICENSE) for more information.
 
 ---
 
-## :white_check_mark: &nbsp; Follow me
+## :white_check_mark: Follow me
 
 <p align="left">
   <a href="https://www.instagram.com/edusantsales/">
